@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/elyamene/github.io.git/static/css/main.14578f07.css",
-    "main.js": "/elyamene/github.io.git/static/js/main.f1501726.js",
-    "index.html": "/elyamene/github.io.git/index.html",
-    "main.14578f07.css.map": "/elyamene/github.io.git/static/css/main.14578f07.css.map",
-    "main.f1501726.js.map": "/elyamene/github.io.git/static/js/main.f1501726.js.map"
+    "main.css": "/cleverbaby/static/css/main.14578f07.css",
+    "main.js": "/cleverbaby/static/js/main.f1501726.js",
+    "index.html": "/cleverbaby/index.html",
+    "main.14578f07.css.map": "/cleverbaby/static/css/main.14578f07.css.map",
+    "main.f1501726.js.map": "/cleverbaby/static/js/main.f1501726.js.map"
   },
   "entrypoints": [
     "static/css/main.14578f07.css",
